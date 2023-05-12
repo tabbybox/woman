@@ -59,3 +59,7 @@ gf.deligate(main)
 ```
 
 Congratulations, you have done setting up one big horrible grenade for yourself. Sit back and enjoy the moment when disaster unfolds upon your past mistakes along your Git commit history.
+
+<hr>
+
+*Is this package stupid? yes, so as what I experienced.*
