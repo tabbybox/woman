@@ -9,7 +9,7 @@ Woman ☕
 ![discord](https://img.shields.io/discord/439668987421261824)
 ![npm](https://img.shields.io/npm/dm/@tabbybox/woman)
 ![contributor](https://img.shields.io/github/contributors/tabbybox/woman)
-![health](https://img.shields.io/badge/Mental%20health-Extremely%20bad%20%3A)-brightgreen)
+![health](https://img.shields.io/badge/Mental%20health-Extremely%20bad%20%3A-brightgreen)
 # Features
 
 - ✅ Accompany your code.
