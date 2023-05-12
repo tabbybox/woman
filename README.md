@@ -4,7 +4,7 @@ Woman ☕
 
 <p align="center">The most "realistic" progressively aggressive DX deoptimizer</p>
 
-> **Women don't worth your time and effort** *if they aren't software engineers that could how to think properly
+> **Women don't worth your time and effort** *if they aren't engineers that could how to think properly
 
 # Features
 
