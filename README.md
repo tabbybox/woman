@@ -6,6 +6,9 @@ Woman ☕
 
 > **Women don't worth your time and effort** *if they aren't engineers that could how to think properly
 
+![discord](https://img.shields.io/discord/439668987421261824)
+![npm](https://img.shields.io/npm/dm/@tabbybox/woman)
+![contributor](https://img.shields.io/github/contributors/tabbybox/woman)
 # Features
 
 - ✅ Accompany your code.
