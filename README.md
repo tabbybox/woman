@@ -4,7 +4,7 @@ Woman ☕
 
 <p align="center">The most "realistic" progressively aggressive DX deoptimizer</p>
 
-> **Women don't worth your time and effort** *if they aren't engineers that could how to think properly
+> **Women don't worth your time and effort** *if they aren't engineers or that could think properly at least
 
 ![discord](https://img.shields.io/discord/439668987421261824)
 ![npm](https://img.shields.io/npm/dm/@tabbybox/woman)
