@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "simple-git": "^3.18.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
