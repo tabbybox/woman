@@ -22,7 +22,7 @@ npm install @tabbybox/woman # npm
 ```
 NPM as an example only, you can use Yarn or PNPM it's up to you. But keep in mind that, 
 
-> **:warning: DANGER**
+> **:warning: DANGER** 
 > This package is designed deliberately to **cause damage**, and may even have your codebse **PERMANENTLY DESTROY**, exactly as how broken I am right now.
 > Always backup, BACKUP before you install and use this package
 
